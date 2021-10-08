@@ -1,0 +1,2 @@
+module MyOwnAutoShopProject {
+}
